@@ -20,5 +20,5 @@
 - Подготовлен итоговый отчёт о тестировании.
 
 📎 **Документы:**  
-- [Чек-лист (Google Sheets)](#)  
-- [Баг-репорты (Google Sheets)](#)
+- [Чек-лист] https://docs.google.com/spreadsheets/d/1dV5XLazTwEvuLLzw9RUBSv1ChJWTpqG5IP5hDUuKErA/edit?gid=1610041137#gid=1610041137  
+- [Баг-репорт] https://docs.google.com/spreadsheets/d/1dV5XLazTwEvuLLzw9RUBSv1ChJWTpqG5IP5hDUuKErA/edit?gid=454479584#gid=454479584
